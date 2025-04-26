@@ -35,3 +35,16 @@ E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul10\tpmodul10_103022300107\tpmodu
 E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul10\tpmodul10_103022300107\tpmodul10_103022300107\obj\Debug\net8.0\tpmodul10_103022300107.pdb
 E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul10\tpmodul10_103022300107\tpmodul10_103022300107\obj\Debug\net8.0\tpmodul10_103022300107.genruntimeconfig.cache
 E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul10\tpmodul10_103022300107\tpmodul10_103022300107\obj\Debug\net8.0\ref\tpmodul10_103022300107.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul10\tpmodul10_103022300107\tpmodul10_103022300107\bin\Debug\net8.0\Namotion.Reflection.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul10\tpmodul10_103022300107\tpmodul10_103022300107\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul10\tpmodul10_103022300107\tpmodul10_103022300107\bin\Debug\net8.0\NJsonSchema.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul10\tpmodul10_103022300107\tpmodul10_103022300107\bin\Debug\net8.0\NJsonSchema.Annotations.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul10\tpmodul10_103022300107\tpmodul10_103022300107\bin\Debug\net8.0\NJsonSchema.NewtonsoftJson.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul10\tpmodul10_103022300107\tpmodul10_103022300107\bin\Debug\net8.0\NJsonSchema.Yaml.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul10\tpmodul10_103022300107\tpmodul10_103022300107\bin\Debug\net8.0\NSwag.Annotations.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul10\tpmodul10_103022300107\tpmodul10_103022300107\bin\Debug\net8.0\NSwag.AspNetCore.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul10\tpmodul10_103022300107\tpmodul10_103022300107\bin\Debug\net8.0\NSwag.Core.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul10\tpmodul10_103022300107\tpmodul10_103022300107\bin\Debug\net8.0\NSwag.Core.Yaml.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul10\tpmodul10_103022300107\tpmodul10_103022300107\bin\Debug\net8.0\NSwag.Generation.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul10\tpmodul10_103022300107\tpmodul10_103022300107\bin\Debug\net8.0\NSwag.Generation.AspNetCore.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul10\tpmodul10_103022300107\tpmodul10_103022300107\bin\Debug\net8.0\YamlDotNet.dll
